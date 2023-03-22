@@ -7,7 +7,7 @@ The data provided in the establishments.json file was imported using Terminal wi
 
 
 
-Here is an example of one of the results. This shows the number of establishments with a hygiene score of 0.
+Here is an example of one of the results. This shows the number of establishments in each locality with a hygiene score of 0.
 
 
 ![image](https://user-images.githubusercontent.com/119769357/226799793-37ce0eb5-4a79-4340-af9b-f47f2afdd324.png)
