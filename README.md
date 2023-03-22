@@ -6,4 +6,8 @@ The NoSQL_analysis.ipynb queries relevant information for analysis and converts 
 The data provided in the establishments.json file was imported using Terminal with mongoimport --type json -d uk_food -c establishments --drop --jsonArray establishments.json.
 
 
+
+Here is an example of one of the results. This shows the number of establishments with a hygiene score of 0.
+
+
 ![image](https://user-images.githubusercontent.com/119769357/226799793-37ce0eb5-4a79-4340-af9b-f47f2afdd324.png)
